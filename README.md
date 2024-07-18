@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Gbo-barreto
-- 👀 I’m interested in trabalhar como programador
-- 🌱 I’m currently learning na RockeSeat - Full-Steak. 
-- 💞️ I’m looking to collaborate on melhorar meus codigos 
-- 📫 How to reach 
-- 😄 Pronouns: Guilherme 
+👋 Olá, sou @Gbo-barreto
+👀 Estou interessado em trabalhar como programador
+🌱 Atualmente estou fazendo curso RockeSeat - Full-Steak.
+💞️ Procuro melhorar meus códigos
+📫 Como chegar ****
+😄 Pronomes: Guilherme
 
 
 <!---
