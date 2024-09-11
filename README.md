@@ -1,6 +1,6 @@
-👋 Olá, sou @Gbo-barreto
+👋 Olá, me chamo Guilherme. 
 👀 Estou interessado em trabalhar como programador
-🌱 Atualmente estou fazendo curso da RockeSeat - Full-Steak.
+🌱 iniciei no ano de 2024 minha graduação em Engenharia de Software, e também estou fazendo curso da RockeSeat - Full-Steak.
 💞️ Procuro melhorar meus códigos
 📫 Como chegar ****
 😄 Pronomes: Guilherme
